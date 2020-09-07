@@ -91,7 +91,7 @@ This is the version 1.0.
 
 ## Licence
 
-This project is licensed under the MIT Licence.
+This project is licensed under the GNU General Public License
 
 ## Acknowledgments
 
